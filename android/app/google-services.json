@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725234692271",
+    "project_id": "world-ad700",
+    "storage_bucket": "world-ad700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725234692271:android:b0a07039ae2c11e9e7a45a",
+        "android_client_info": {
+          "package_name": "com.example.world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725234692271-vt5cnm7kmripjrf129fh667er7rje04v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2H5yW46e8daoL_DYeG4flAqPFgAdk_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725234692271-vt5cnm7kmripjrf129fh667er7rje04v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
